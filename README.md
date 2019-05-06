@@ -13,8 +13,8 @@ Maquina caca niquel para a disciplica de computacao embarcada
 - A (+ 1 hard e + 1 soft)
    - **RTOS**
    - Alavanca de inicio - Digital
-   - > 2 Simbolos
-   - > 2 Roletas
+   - >2 Simbolos
+   - >2 Roletas
    - **PWN por hardware**
    - Manipulacao de porcentagem
    - N premios
